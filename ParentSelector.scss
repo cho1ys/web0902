@@ -1,0 +1,12 @@
+    .parent{
+        font-size : 15px;
+        &-small{
+            color : black;
+        }
+        &-medium{
+            color : green;
+        }
+        &-large{
+            color : yellow;
+        }
+    }
